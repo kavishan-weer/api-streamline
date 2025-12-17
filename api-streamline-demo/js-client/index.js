@@ -2,7 +2,7 @@
 
 // CONFIGURATION
 // Replace this with your actual API Streamline endpoint
-const API_BASE_URL = 'https://api.streamline.dev/mock/YOUR_PROJECT_ID';
+const API_BASE_URL = 'https://apistreamline.com/mock/YOUR_PROJECT_ID';
 const RESOURCE = 'users'; // The resource you defined in the dashboard
 
 const ENDPOINT = `${API_BASE_URL}/${RESOURCE}`;
