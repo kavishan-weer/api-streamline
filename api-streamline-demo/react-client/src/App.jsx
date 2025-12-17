@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Trash2, Edit2, Plus, Save, X } from 'lucide-react';
 
 // CONFIGURATION
-const API_URL = 'https://api.streamline.dev/mock/YOUR_PROJECT_ID/users';
+const API_URL = 'https://apistreamline.com/mock/YOUR_PROJECT_ID/users';
 
 export default function App() {
   const [users, setUsers] = useState([]);
