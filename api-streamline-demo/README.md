@@ -19,7 +19,7 @@ This repository contains examples for different environments:
 
 ## 🛠 Quick Start
 
-1.  **Create an Account**: Go to [https://api.streamline.dev](https://api.streamline.dev) (or your local instance) and sign up.
+1.  **Create an Account**: Go to [https://api.streamline.dev](https://apistreamline.com) (or your local instance) and sign up.
 2.  **Create a Project**: Create a new project in the dashboard.
 3.  **Define a Resource**:
     *   Name: `products`
@@ -41,4 +41,4 @@ Standard REST methods are supported:
 
 ## 🤝 Support
 
-If you have questions, please reach out to us at `support@apistreamline.dev` or check the [Documentation](https://api.streamline.dev/docs).
+If you have questions, please reach out to us at `support@apistreamline.dev` or check the [Documentation](https://apistreamline.com/docs).
